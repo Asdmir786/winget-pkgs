@@ -9,14 +9,14 @@ ProductCode: klickety
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-898-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 1FE7BDBDEBBD66BE1D86BC1037E5A1E9B3FB2D431B2E36AF9969BB214BA407A6
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-936-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: B06A33D2902320AEFE4AAF4984339691E2313C43C76C798C9D2760111B87F60C
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-898-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 1FE7BDBDEBBD66BE1D86BC1037E5A1E9B3FB2D431B2E36AF9969BB214BA407A6
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-936-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: B06A33D2902320AEFE4AAF4984339691E2313C43C76C798C9D2760111B87F60C
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
